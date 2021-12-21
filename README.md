@@ -20,7 +20,7 @@
 
 Для самостоятельного извлечения признаков понадобятся [веса](http://imagelab.ing.unimore.it/files/c3d_pytorch/c3d.pickle) и [оригинальный датасет](http://imagelab.ing.unimore.it/files/c3d_pytorch/c3d.pickle)
 
-Результаты корреляции Спирмена
+Результаты корреляции Спирмена:
 
  Модель | TES | PCS |
  :---: |:---:| :---:|
