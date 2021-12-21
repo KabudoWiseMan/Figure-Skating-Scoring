@@ -3,7 +3,7 @@
 Программа для автоматического анализа и оценивания видеозаписи выступления фигуриста с помощью нейронных сетей на основе статьи [Score Figure Skating Sport Videos](https://arxiv.org/pdf/1802.02774.pdf).
 
 Архитектура модели:
-<img src="https://drive.google.com/file/d/1X8yBeqDjvkMYHdF4dI-9Ka_Ci-0j4fxe/view?usp=sharing">
+<img src="https://drive.google.com/uc?export=view&id=1X8yBeqDjvkMYHdF4dI-9Ka_Ci-0j4fxe">
 
 Модель состоит из четырёх частей:
 1. Получение признаков действий C3D из видеозаписи
